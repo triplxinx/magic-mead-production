@@ -1,0 +1,20 @@
+title: "MAGIC MEAD & THE POLITICAL DEATH MACHINE"
+credit: "-:BY:-  Ellis D."
+chapters: 7
+pages_target: 200
+layout:
+  spread: "two equal 3:4 portrait pages"
+  center_gutter: "no faces, hands or balloons crossing"
+  left_page: "aged paper with caption area upper two thirds and vignette below"
+  right_page: "full page or three stacked panels"
+  page_numbers: false
+text_policy:
+  dialogue: "verbatim from approved textscript.txt"
+  captions: "verbatim from approved textscript.txt"
+characters:
+  zripxi: "large green alien, black gloves, floats on pink-grey smoke, feet hidden"
+  pzy: "tiny orange one-eyed hover companion"
+style: "neon psychedelic noir, wet acrylic, thin ink outlines, watercolor sky"
+clocks:
+  chapter_1: "pm 3:33"
+  chapter_2: "am 2:11"
